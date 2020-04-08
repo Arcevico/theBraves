@@ -12,9 +12,6 @@ public class MainController {
         return "redirect:startPage/";
     }
 
-    @RequestMapping(method = RequestMethod.GET, path = "startPage/")
-    public String test() {
 
-        return "startPage/mainPage";
     }
 }
