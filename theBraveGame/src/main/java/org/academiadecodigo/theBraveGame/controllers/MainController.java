@@ -1,4 +1,4 @@
-package org.academiadecodigo.theBraveGame;
+package org.academiadecodigo.theBraveGame.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

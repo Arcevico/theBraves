@@ -1,4 +1,5 @@
-package org.academiadecodigo.theBraveGame;
+package org.academiadecodigo.theBraveGame.controllers;
+
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
@@ -7,9 +8,9 @@ import org.springframework.web.bind.annotation.RequestMethod;
 public class QuestionController {
 
     @RequestMapping(method = RequestMethod.GET, path = "questions/")
-public String test(){
+    public String test() {
 
-    return "questions/question1";
-}
+        return "questions/question1";
+    }
 
 }
