@@ -6,15 +6,10 @@ import org.springframework.web.bind.annotation.RequestMethod;
 @Controller
 public class QuestionController {
 
-    @RequestMapping("/")
-    public String home() {
-        return "redirect:questions/";
-    }
-
     @RequestMapping(method = RequestMethod.GET, path = "questions/")
 public String test(){
 
-    return "question1";
+    return "questions/question1";
 }
 
 }
