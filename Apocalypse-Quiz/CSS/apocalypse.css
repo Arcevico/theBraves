@@ -47,7 +47,7 @@ body {
     justify-content: center;
 }
 
-video, #bgvid {
+video {
     position: fixed;
     top: 50%;
     left: 50%;
@@ -57,7 +57,7 @@ video, #bgvid {
     height: auto;
     z-index: -100;
     transform: translateX(-50%) translateY(-50%);
-    /*background: url('//demosthenes.info/assets/images/polina.jpg') no-repeat;*/
+    background: url('//demosthenes.info/assets/images/polina.jpg') no-repeat;
     background-size: cover;
     transition: 1s opacity;
     filter: brightness(50%)
@@ -69,7 +69,7 @@ video, #bgvid {
 .enterB,
 .tryAgain,
 .nextBtn {
-    font-family: 'Trade Winds', cursive;
+    font-family: 'Audiowide', cursive;
     font-size: 1em;
     color: white;
     padding: 10px 10px;
@@ -79,7 +79,7 @@ video, #bgvid {
     -moz-border-radius: 5px 5px 5px 5px;
     -webkit-border-radius: 5px 5px 5px 5px;
     border: 1px solid rgba(255, 255, 255, 0.5);
-    background-color: rgba(71, 69, 75, 0.2);
+    background-color: rgba(194, 166, 255, 0.2);
     cursor: pointer;
     outline: none;
 }
@@ -94,7 +94,7 @@ video, #bgvid {
     left: 1px;
     border-color: black;
     color: rgba(255, 255, 255, 1);
-    box-shadow: 7px 7px 100px 30px rgba(199, 172, 50, 0.3);
+    box-shadow: 7px 7px 100px 30px rgba(145, 92, 182, 0.6);
 }
 
 .nextBtn {
@@ -105,7 +105,7 @@ video, #bgvid {
 }
 
 header {
-    font-family: 'Trade Winds', cursive;
+    font-family: 'Audiowide', sans-serif;
     letter-spacing: 3px;
     font-size: 2em;
     font-weight: lighter;
@@ -116,8 +116,7 @@ header {
 }
 
 .mainTitle {
-    /* font-family: 'Audiowide', cursive; */
-    font-family: 'Frijole', cursive;
+    font-family: 'Audiowide', cursive;
     padding: 20px 40px 30px 40px;
     letter-spacing: 3px;
     font-size: 1.5em;
@@ -130,7 +129,7 @@ header {
 }
 
 .secondTitle {
-    font-family: 'Trade Winds', cursive;
+    font-family: 'Audiowide', cursive;
     padding: 20px 40px 30px 40px;
     letter-spacing: 3px;
     font-size: 0.5em;
@@ -151,7 +150,7 @@ header {
 
 .question {
     display: inline-block;
-    font-family: 'Trade Winds', cursive;
+    font-family: 'Audiowide', cursive;
     padding: 20px 40px 30px 40px;
     letter-spacing: 3px;
     font-size: 3em;
@@ -166,7 +165,6 @@ header {
 label,
 form input[type=radio] {
     cursor: pointer;
-    margin-right: 20px;
 }
 
 .quizC {
@@ -174,7 +172,7 @@ form input[type=radio] {
     margin: auto;
     padding-bottom: 50px;
     color: white;
-    font-family: 'Trade Winds', cursive;
+    font-family: 'Audiowide', cursive;
     flex-direction: column;
     animation-name: zoomIn;
     animation-duration: 2s;
@@ -182,7 +180,7 @@ form input[type=radio] {
 
 #options {
     color: white;
-    font-family: 'Trade Winds', cursive;
+    font-family: 'Audiowide', cursive;
     font-size: 0.8em;
     animation-name: zoomIn;
     animation-duration: 2s;
@@ -202,7 +200,7 @@ form input[type=radio] {
 }
 
 #resultS {
-    font-family: 'Trade Winds', cursive;
+    font-family: 'Audiowide', cursive;
     padding: 20px 40px 50px 40px;
     letter-spacing: 3px;
     font-size: 1.5em;
@@ -218,7 +216,6 @@ form input[type=radio] {
     animation-name: tada;
     animation-duration: 2s;
 }
-
 
 
 
