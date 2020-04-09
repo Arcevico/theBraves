@@ -1,10 +1,9 @@
-package org.academiadecodigo.theBraveGame.questions;
+package org.academiadecodigo.theBraveGame.quiz;
 
 import org.springframework.stereotype.Repository;
 
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.LinkedList;
 import java.util.List;
 
 @Repository
@@ -27,8 +26,9 @@ public class Questions {
     private final static String QUESTION16 = "16";
     private final static String QUESTION17 = "17";
 
-    public void getRandomQuestion(List<String> list){
+    public String getRandomQuestion(List<String> list){
         Collections.shuffle(list);
+        return list.listIterator().next();
     }
 
     public List<String> questionsList(){

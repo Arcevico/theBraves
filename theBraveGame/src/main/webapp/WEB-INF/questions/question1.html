@@ -5,6 +5,19 @@
     <title>Main Page</title>
 </head>
 <body>
-    <tr th:text="${question.get(randomNumber)}"/>
+    <tr th:text="${randomQuestion}"/>
+    <tr th:if="${randomQuestion == '2'}" th:text="${pointsMessage}"/>
+    <tr th:if="${randomQuestion == '2'}" th:text="${pointsMessage}"/>
+    <h1><tr th:text="${points}"/></h1>
+    <a th:href="@{/questions/}">Answer</a>
+    <tr th:text="${counter}"/>
+
+<select id="answers" th:field="*{answers}" size="10" multiple="multiple">
+    <option th:each="answer : ${answers}"
+            th:value="${answer}">
+
+    </option>
+</select>
+
 </body>
 </html>

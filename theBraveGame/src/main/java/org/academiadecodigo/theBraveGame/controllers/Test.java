@@ -1,6 +1,6 @@
 package org.academiadecodigo.theBraveGame.controllers;
 
-import org.academiadecodigo.theBraveGame.questions.Questions;
+import org.academiadecodigo.theBraveGame.quiz.Questions;
 
 import java.util.List;
 
