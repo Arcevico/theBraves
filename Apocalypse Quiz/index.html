@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+     <!--- Basic Page Needs
+   ================================================== -->
+    <title>Apocalypse Survival</title>
+    <meta charset="utf-8">
+    
+     <!-- Mobile Specific Metas
+   ================================================== -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+    
+    <!-- Google Fonts
+	================================================== -->
+     <link href="https://fonts.googleapis.com/css?family=Audiowide" rel="stylesheet">
+    
+    <!-- Favicons
+	================================================== -->
+    <link rel="shortcut icon" href="/PICS/saturn.png" type="image/x-icon">
+    
+    <!-- CSS
+    ================================================== -->
+    <link href="CSS/normalize.css" rel="stylesheet" type="text/css">
+    <link href="CSS/apocalypse.css" rel="stylesheet" type="text/css">
+   
+
+
+
+</head>
+
+<body>
+    <!-- BACKGROUND VIDEO SECTION -->
+    <video id="bgvid" playsinline autoplay muted loop>
+      <source src="VIDEO/All%20-%207981.mp4" type="video/mp4" />
+    </video>
+
+
+    <!-- HEADER SECTION-->
+    <header id="titleS">
+        <h1 id="mainTitle" class="mainTitle">Survive the Apocalypse</h1>
+        <h3 id="secondTitle" class="secondTitle">How long can <strong><em>YOU</em></strong> remain standing?</h3>
+        <button id="enterB" class="enterB">Survive!</button>
+    </header>
+
+
+    <!-- QUIZ SECTION-->
+    <section id="quizC" class="quizC">
+        <div id="question" class="question"></div>
+        <div id="questionS"></div>
+        <form id="options"></form>
+        <div id="imgC" class="imgC"></div>
+        <button id="nextBtn" class="nextBtn" disabled>Next</button>
+    </section>
+
+
+    <!-- RESULTS SECTION -->
+    <section id="resultS" class="resultS">
+        <div>
+            <h1>Results: </h1>
+            <h2 id="result"></h2>
+            <button id="tryAgain" class="tryAgain">Try Again</button>
+        </div>
+    </section>
+
+
+
+
+   <!-- <script src="JS/planet.json"></script>-->
+    <script src="JS/apocalypse.js"></script>
+</body>
+
+</html>
