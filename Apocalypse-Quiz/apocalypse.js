@@ -8,11 +8,13 @@ var myQuestions = [
         "question": "The “hot” neighbour and wants do have sex with me, do I...",
         "imageURL": "resources/PNG/hotGirl.png",
         "answers":  {      
-            "a": "jump onto her wearing a mask",   
-            "b": "jerk off",      
+            "a": "jump onto her wearing a mask",
+               
+            "b": "jerk off",
+                  
             "c": "use a latex gold condom without lubrication"    
 
-            
+
         },
         "correctAnswer": "jerk off",
         "wrongAnswer": "use a latex gold condom without lubrication",
@@ -25,7 +27,8 @@ var myQuestions = [
         "question": "What should I do whenever when i go to the groceries...",
         "imageURL": "resources/PNG/grocery.png",
         "answers":  {      
-            "a": "smoke a joint with the crew", 
+            "a": "smoke a joint with the crew",
+             
             "b": "just go to the fucking grocery store",
             "c": "keep my distance from homeless people"    
         },
@@ -37,10 +40,7 @@ var myQuestions = [
     },    {
         "question": "I grabbed a handrail full of spit, do I...",
          "imageURL": "resources/PNG/handrail.png",
-         "answers":  {    
-              "a": "suck my fingers after eating a donut",     
-              "b": "wait until i wash my hands to scratch my asshole",      
-              "c": "wipe my hands on my pants and pet my wife"     },
+         "answers":  {       "a": "suck my fingers after eating a donut",        "b": "wait until i wash my hands to scratch my asshole",        "c": "wipe my hands on my pants and pet my wife"     },
          "correctAnswer": "wait until i wash my hands to scratch my asshole",
          "wrongAnswer": "suck my fingers after eating a donut",
         "wrongAnswer2": "wipe my hands on my pants and pet my wife",
@@ -49,8 +49,8 @@ var myQuestions = [
     },   
     {
         "question":   "I’m always scratching my balls...",
-        "imageURL": "resources/PNG/cat.png",
-                 "answers":  {      
+        "imageURL": "resources/PNG/testicles.png",
+         "answers":  {      
             "a":   "I should wash my hands frequently with acid",
                   
             "b":   "I can smell my fingers straight after",
@@ -64,8 +64,8 @@ var myQuestions = [
         "honorableAnswer":   "I should wash my hands frequently with acid"   
     },    {
         "question":   "When smoking a joint and have a coughing fit, do I...",
-        "imageURL": "resources/PNG/cigarretes.png",
-                 "answers":  {      
+        "imageURL": "resources/PNG/joint.png",
+         "answers":  {      
             "a":   "take a deep breath and spit into the floor",
                   
             "b":   "cover my mouth with my hand and roll another one",
@@ -79,8 +79,8 @@ var myQuestions = [
         "selfishAnswer": "take a deep breath and spit into the floor"  
     },    {
         "question":   "My friend lent me a vibrator, do I...",
-        "imageURL": "resources/PNG/cat.png",
-                 "answers":  {      
+        "imageURL": "resources/PNG/dildo.png",
+         "answers":  {      
             "a":   "take the opportunity to use it just tonight with my partner",
                   
             "b":   "avoid sharing personal objects before I perfume them",
@@ -95,7 +95,7 @@ var myQuestions = [
     },   
     {
         "question":   "I’m snotty and need to clean my nose, do I...",
-         "imageURL": "resources/PNG/cat.png",
+         "imageURL": "resources/PNG/nose.png",
          "answers":  {      
             "a":   "use a paper tissue and keep it in my pocket",
                   
@@ -141,7 +141,7 @@ var myQuestions = [
     {
         "question":   "Fuck! I have a fever, cough and shortness of breath, do I...",
             
-        "imageURL":   "",
+        "imageURL":   "resources/PNG/sick.png",
             
         "answers":  {      
             "a":   "call the doctor",
@@ -159,7 +159,7 @@ var myQuestions = [
     },   
     {
         "question":   "The TV host coughed on a TV show...",
-            "imageURL":   "",
+            "imageURL":   "resources/PNG/tvhost.png",
             "answers":  {      
             "a":   "can only be transmitted if you watch a live show",
                   
@@ -173,7 +173,7 @@ var myQuestions = [
     },   
     {
         "question":   "I have a cat which is always sneezing, do I...",
-            "imageURL":   "",
+            "imageURL":   "resources/PNG/cat.png",
             "answers":  {      
             "a":   "kill the cat",
                   
@@ -189,7 +189,7 @@ var myQuestions = [
     },   
     { 
         "question":   "It's a great fucking day...",
-            "imageURL":   "",
+            "imageURL":   "resources/PNG/sun.png",
             "answers":  {      
             "a":   "fuck the virus and let's all go to the beach",
                   
@@ -204,7 +204,7 @@ var myQuestions = [
     },   
     { 
         "question":   "I'm in supermarket and it's over crowded...",
-            "imageURL":   "",
+            "imageURL":   "resources/PNG/grocery.png",
             "answers":  {      
             "a":   "i should scream and run out of there",
                   
@@ -219,7 +219,7 @@ var myQuestions = [
         "selfishAnswer": "buy matches and set the supermarket on fire, killing everybody"  
     },    {  
         "question":   "I'm fucked, there's no doctors available, do I...",
-            "imageURL":   "",
+            "imageURL":   "resources/PNG/doctors.png",
             "answers":  {      
             "a":   "contact a VET to see if he can help me",
                   
@@ -234,7 +234,7 @@ var myQuestions = [
     },   
     {  
         "question":   "I'm out of cash to buy cigarettes...",
-            "imageURL":   "",
+            "imageURL":   "resources/PNG/cigarretes.png",
             "answers":  {       "a":   "ask a friend for a cigarette",        "b":   "better not to smoke. Virus passes through our mucous membranes",        "c":   "I take a puff from someone else’s cigarette, as this has no risk"     },
 
         "correctAnswer":   "better not to smoke. Virus passes through our mucous membranes",
@@ -245,7 +245,7 @@ var myQuestions = [
 
       {  
         "question":   "I'm not horny today...",
-            "imageURL":   "",
+            "imageURL":   "resources/PNG/viagra.png",
             "answers":  {       "a":   "fuck, I must have caught the virus",        "b":   "I will call the hospital",        "c":   "I will call the hospital only if I have been in contact with an infected person"     },
             "correctAnswer":   "I will call the hospital only if I have been in contact with an infected person",
             "wrongAnswer":   "I will call the hospital",
@@ -253,7 +253,7 @@ var myQuestions = [
         "selfishAnswer": "I will call the hospital"  
     },    {  
         "question":   "I'm a smoker...",
-            "imageURL":   "",
+            "imageURL":   "resources/PNG/cigarretes.png",
             "answers":  {       "a":   "I am at a greater risk of getting the virus",        "b":   "there are no studies to confirm that I’m in danger of getting virus anyway. I’m gonna go for a run",        "c":   "there is a risk in getting the virus if I already have breathing or heart problems"     },
             "correctAnswer":   "there is a risk if I already have breathing or heart problems",
             "wrongAnswer":   "there are no studies to confirm that I’m in danger of getting virus anyway. I’m gonna go for a run",
@@ -261,7 +261,7 @@ var myQuestions = [
         "selfishAnswer": "there are no studies to confirm that I’m in danger of getting the virus anyway. I’m gonna go for a run"  
     },    {  
         "question":   "Whenever you blow your nose, sneeze, cough or after direct contact with sick people, do I...",
-            "imageURL":   "",
+            "imageURL":   "resources/PNG/sick.png",
             "answers":  {       "a":   "jerk off after",        "b":   "wash my hands for 20 seconds with soap and water",        "c":   "jerk off after wash my hands for 20 seconds with soap and water"     },
             "correctAnswer":   "wash my hands for 20 seconds with soap and water",
             "wrongAnswer":   "jerk off after",
@@ -305,8 +305,8 @@ var correctAnswers = 0;
 var usersAnswers = [];
 var answer = "";
 
-var survivability = Math.floor(Math.random() * (95 - 40 + 1)) + 40;
- var honor = Math.floor(Math.random() * (95 - 40 + 1)) + 40;
+var survivability = Math.floor(Math.random() * (95 - 40 + 1)) + 40; 
+var honor = Math.floor(Math.random() * (95 - 40 + 1)) + 40;
 /*--------------------------*/
 
 
@@ -332,9 +332,9 @@ function paidVersion2() {
 }
 /*End of Paid Version*/
 
-var audio1 = new Audio("resources/AUDIO/The Doors   The End (mp3cut.net) (1).mp3")
+var audio1 = new Audio("resources/AUDIO/thedoors.mp3")
 audio1.play()
-/* ----- Function for Start Button Event -------*/
+    /* ----- Function for Start Button Event -------*/
 function helloFunction() {
     console.log("Index Counter: " + indexCounter);
     document.getElementById("titleS").style.display = "none";
@@ -365,7 +365,7 @@ function helloFunction() {
 
     indexCounter++;
 
-    
+
 
 }
 /* -------------------------------------------------------------------- */
@@ -427,26 +427,19 @@ function nextFunction() {
         /* Checks for correct answers*/
         for (var j = 0; j < myQuestions.length; j++) {
             if (usersAnswers[j] == myQuestions[j].correctAnswer) {
-                /*    THIS WHOLE THING, DOES FUCK ALL */ 
+                /*    THIS WHOLE THING, DOES FUCK ALL */
             }
-            if (usersAnswers[j] == myQuestions[j].honorableAnswer) {
-            }
+            if (usersAnswers[j] == myQuestions[j].honorableAnswer) {}
 
-            if (usersAnswers[j] == myQuestions[j].wrongAnswer) {
-            }
+            if (usersAnswers[j] == myQuestions[j].wrongAnswer) {}
 
-            if (usersAnswers[j] == myQuestions[j].selfishAnswer) {
-            }
-            if (usersAnswers[j] == myQuestions[j].correctAnswer2) {
-            }
-            if (usersAnswers[j] == myQuestions[j].honorableAnswer2) {
-            }
+            if (usersAnswers[j] == myQuestions[j].selfishAnswer) {}
+            if (usersAnswers[j] == myQuestions[j].correctAnswer2) {}
+            if (usersAnswers[j] == myQuestions[j].honorableAnswer2) {}
 
-            if (usersAnswers[j] == myQuestions[j].wrongAnswer2) {
-            }
+            if (usersAnswers[j] == myQuestions[j].wrongAnswer2) {}
 
-            if (usersAnswers[j] == myQuestions[j].selfishAnswer2) {
-            }
+            if (usersAnswers[j] == myQuestions[j].selfishAnswer2) {}
         } 
 
 
