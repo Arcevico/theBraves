@@ -5,53 +5,52 @@
 var myQuestions = [
 
         {
-        "question":   "The “hot” neighbour and wants do have sex with me, do I...",
-        "imageURL":    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Observable_universe_logarithmic_illustration.png/220px-Observable_universe_logarithmic_illustration.png",
+        "question": "The “hot” neighbour and wants do have sex with me, do I...",
+        "imageURL": "resources/PNG/hotGirl.png",
         "answers":  {      
-            "a":   "jump onto her wearing a mask",
-                  
-            "b":   "jerk off",
-                  
-            "c":   "use a latex gold condom without lubrication"    
+            "a": "jump onto her wearing a mask",   
+            "b": "jerk off",      
+            "c": "use a latex gold condom without lubrication"    
+
+            
         },
-            
-        "correctAnswer":   "jerk off",
-        "wrongAnswer":   "use a latex gold condom without lubrication",
+        "correctAnswer": "jerk off",
+        "wrongAnswer": "use a latex gold condom without lubrication",
         "wrongAnswer2": "jump onto her wearing a mask",
         "selfishAnswer": "use a latex gold condom without lubrication",
         "selfishAnswer2": "jump onto her wearing a mask",
         "honorableAnswer": "jerk off"  
     },   
     {
-        "question":   "What should I do whenever when i go to the groceries...",
-        "imageURL":   "https://orig00.deviantart.net/5786/f/2013/025/7/1/free_sun_stock_image_by_lyra_elante-d5spggh.png",
+        "question": "What should I do whenever when i go to the groceries...",
+        "imageURL": "resources/PNG/grocery.png",
         "answers":  {      
-            "a":   "smoke a joint with the crew",
-                  
-            "b":   "just go to the fucking grocery store",
-                  
-            "c":   "keep my distance from homeless people"    
+            "a": "smoke a joint with the crew", 
+            "b": "just go to the fucking grocery store",
+            "c": "keep my distance from homeless people"    
         },
-            
-        "correctAnswer":   "just go to the fucking grocery store",
+        "correctAnswer": "just go to the fucking grocery store",
         "correctAnswer2": "keep my distance from homeless people",
-        "wrongAnswer":   "smoke a joint with the crew",
+        "wrongAnswer": "smoke a joint with the crew",
         "honorableAnswer": "just go to the fucking grocery store",
         "selfishAnswer": "smoke a joint with the crew"  
     },    {
-        "question":   "I grabbed a handrail full of spit, do I...",
-         "imageURL":   "http://www.clker.com/cliparts/N/K/6/u/K/I/north-star-hi.png",
-         "answers":  {       "a":   "suck my fingers after eating a donut",        "b":   "wait until i wash my hands to scratch my asshole",        "c":   "wipe my hands on my pants and pet my wife"     },
-         "correctAnswer":   "wait until i wash my hands to scratch my asshole",
-         "wrongAnswer":   "suck my fingers after eating a donut",
+        "question": "I grabbed a handrail full of spit, do I...",
+         "imageURL": "resources/PNG/handrail.png",
+         "answers":  {    
+              "a": "suck my fingers after eating a donut",     
+              "b": "wait until i wash my hands to scratch my asshole",      
+              "c": "wipe my hands on my pants and pet my wife"     },
+         "correctAnswer": "wait until i wash my hands to scratch my asshole",
+         "wrongAnswer": "suck my fingers after eating a donut",
         "wrongAnswer2": "wipe my hands on my pants and pet my wife",
          "selfishAnswer": "wipe my hands on my pants and pet my wife"  
 
     },   
     {
         "question":   "I’m always scratching my balls...",
-         "imageURL":   "https://sites.google.com/a/umich.edu/jessie-muir/_/rsrc/1491259784399/cartoons/galaxycluster/galaxy_cluster.png?height=376&width=400",
-         "answers":  {      
+        "imageURL": "resources/PNG/cat.png",
+                 "answers":  {      
             "a":   "I should wash my hands frequently with acid",
                   
             "b":   "I can smell my fingers straight after",
@@ -65,8 +64,8 @@ var myQuestions = [
         "honorableAnswer":   "I should wash my hands frequently with acid"   
     },    {
         "question":   "When smoking a joint and have a coughing fit, do I...",
-         "imageURL":   "https://upload.wikimedia.org/wikipedia/commons/8/8b/4_Milky_Way_%28blank_2%29.png",
-         "answers":  {      
+        "imageURL": "resources/PNG/cigarretes.png",
+                 "answers":  {      
             "a":   "take a deep breath and spit into the floor",
                   
             "b":   "cover my mouth with my hand and roll another one",
@@ -80,8 +79,8 @@ var myQuestions = [
         "selfishAnswer": "take a deep breath and spit into the floor"  
     },    {
         "question":   "My friend lent me a vibrator, do I...",
-         "imageURL":   "http://www.zaxtor.net/Rigel.png",
-         "answers":  {      
+        "imageURL": "resources/PNG/cat.png",
+                 "answers":  {      
             "a":   "take the opportunity to use it just tonight with my partner",
                   
             "b":   "avoid sharing personal objects before I perfume them",
@@ -96,7 +95,7 @@ var myQuestions = [
     },   
     {
         "question":   "I’m snotty and need to clean my nose, do I...",
-         "imageURL":   "http://www.redorbit.com/media/uploads/2016/05/supernova.jpg",
+         "imageURL": "resources/PNG/cat.png",
          "answers":  {      
             "a":   "use a paper tissue and keep it in my pocket",
                   
@@ -111,7 +110,7 @@ var myQuestions = [
     },   
     {
         "question":   "Don't have soap to wash my hands, do I...",
-           "imageURL":   "http://icons.iconarchive.com/icons/zairaam/bumpy-planets/256/blackhole-icon.png",
+           "imageURL": "resources/PNG/virus.png",
            "answers":  {      
             "a":   "wash my hands in the toilet water",
                   
@@ -126,7 +125,7 @@ var myQuestions = [
     },   
     {
         "question":   "Think I got the fucking virus, do I...",
-            "imageURL":   "http://www.officialpsds.com/images/thumbs/---Burning-Sun-psd101075.png",
+           "imageURL": "resources/PNG/virus.png",
             "answers":  {      
             "a":   "get laid but with my pijamas on",
                   
@@ -142,7 +141,7 @@ var myQuestions = [
     {
         "question":   "Fuck! I have a fever, cough and shortness of breath, do I...",
             
-        "imageURL":   "http://images.clipartpanda.com/dwarf-clipart-clipsnow15.gif",
+        "imageURL":   "",
             
         "answers":  {      
             "a":   "call the doctor",
@@ -160,7 +159,7 @@ var myQuestions = [
     },   
     {
         "question":   "The TV host coughed on a TV show...",
-            "imageURL":   "http://images.clipartpanda.com/dwarf-clipart-clipsnow15.gif",
+            "imageURL":   "",
             "answers":  {      
             "a":   "can only be transmitted if you watch a live show",
                   
@@ -174,7 +173,7 @@ var myQuestions = [
     },   
     {
         "question":   "I have a cat which is always sneezing, do I...",
-            "imageURL":   "http://images.clipartpanda.com/dwarf-clipart-clipsnow15.gif",
+            "imageURL":   "",
             "answers":  {      
             "a":   "kill the cat",
                   
@@ -190,7 +189,7 @@ var myQuestions = [
     },   
     { 
         "question":   "It's a great fucking day...",
-            "imageURL":   "http://images.clipartpanda.com/dwarf-clipart-clipsnow15.gif",
+            "imageURL":   "",
             "answers":  {      
             "a":   "fuck the virus and let's all go to the beach",
                   
@@ -198,14 +197,14 @@ var myQuestions = [
                   
             "c":   "just enjoy watching pornhub premium"    
         },
-            "correctAnswer":   "ust enjoy watching pornhub premium",
+            "correctAnswer":   "just enjoy watching pornhub premium",
             "wrongAnswer":   "fuck the virus and let's all go to the beach",
         "wrongAnswer2":   "fuck the virus and let's all go to the beach",
             "selfishAnswer": "fuck the virus and let's all go to the beach"  
     },   
     { 
         "question":   "I'm in supermarket and it's over crowded...",
-            "imageURL":   "http://images.clipartpanda.com/dwarf-clipart-clipsnow15.gif",
+            "imageURL":   "",
             "answers":  {      
             "a":   "i should scream and run out of there",
                   
@@ -213,14 +212,14 @@ var myQuestions = [
                   
             "c":   "don't buy any food and starve"    
         },
-            "correctAnswer":   "buy matches and set the supermarket on fire, killing the everybody",
+            "correctAnswer":   "Buy matches and set the supermarket on fire, killing the everybody",
         "correctAnswer2":   "i should scream and run out of there",
             "wrongAnswer":   "don't buy any food and starve",
             "honorableAnswer":   "don't buy any food and starve",
         "selfishAnswer": "buy matches and set the supermarket on fire, killing everybody"  
     },    {  
         "question":   "I'm fucked, there's no doctors available, do I...",
-            "imageURL":   "http://images.clipartpanda.com/dwarf-clipart-clipsnow15.gif",
+            "imageURL":   "",
             "answers":  {      
             "a":   "contact a VET to see if he can help me",
                   
@@ -235,7 +234,7 @@ var myQuestions = [
     },   
     {  
         "question":   "I'm out of cash to buy cigarettes...",
-            "imageURL":   "http://images.clipartpanda.com/dwarf-clipart-clipsnow15.gif",
+            "imageURL":   "",
             "answers":  {       "a":   "ask a friend for a cigarette",        "b":   "better not to smoke. Virus passes through our mucous membranes",        "c":   "I take a puff from someone else’s cigarette, as this has no risk"     },
 
         "correctAnswer":   "better not to smoke. Virus passes through our mucous membranes",
@@ -246,7 +245,7 @@ var myQuestions = [
 
       {  
         "question":   "I'm not horny today...",
-            "imageURL":   "http://images.clipartpanda.com/dwarf-clipart-clipsnow15.gif",
+            "imageURL":   "",
             "answers":  {       "a":   "fuck, I must have caught the virus",        "b":   "I will call the hospital",        "c":   "I will call the hospital only if I have been in contact with an infected person"     },
             "correctAnswer":   "I will call the hospital only if I have been in contact with an infected person",
             "wrongAnswer":   "I will call the hospital",
@@ -254,7 +253,7 @@ var myQuestions = [
         "selfishAnswer": "I will call the hospital"  
     },    {  
         "question":   "I'm a smoker...",
-            "imageURL":   "http://images.clipartpanda.com/dwarf-clipart-clipsnow15.gif",
+            "imageURL":   "",
             "answers":  {       "a":   "I am at a greater risk of getting the virus",        "b":   "there are no studies to confirm that I’m in danger of getting virus anyway. I’m gonna go for a run",        "c":   "there is a risk in getting the virus if I already have breathing or heart problems"     },
             "correctAnswer":   "there is a risk if I already have breathing or heart problems",
             "wrongAnswer":   "there are no studies to confirm that I’m in danger of getting virus anyway. I’m gonna go for a run",
@@ -262,16 +261,13 @@ var myQuestions = [
         "selfishAnswer": "there are no studies to confirm that I’m in danger of getting the virus anyway. I’m gonna go for a run"  
     },    {  
         "question":   "Whenever you blow your nose, sneeze, cough or after direct contact with sick people, do I...",
-            "imageURL":   "http://images.clipartpanda.com/dwarf-clipart-clipsnow15.gif",
+            "imageURL":   "",
             "answers":  {       "a":   "jerk off after",        "b":   "wash my hands for 20 seconds with soap and water",        "c":   "jerk off after wash my hands for 20 seconds with soap and water"     },
             "correctAnswer":   "wash my hands for 20 seconds with soap and water",
             "wrongAnswer":   "jerk off after",
             "honorableAnswer":   "jerk off after wash my hands for 20 seconds with soap and water",
         "selfishAnswer": "jerk off after"  
     },
-
-
-
 ];
 
 /*console.log("Length: " + myQuestions.length);*/
@@ -308,8 +304,9 @@ var options = "";
 var correctAnswers = 0;
 var usersAnswers = [];
 var answer = "";
-var survivability = 100;
-var honor = 0;
+
+var survivability = Math.floor(Math.random() * (95 - 40 + 1)) + 40;
+ var honor = Math.floor(Math.random() * (95 - 40 + 1)) + 40;
 /*--------------------------*/
 
 
@@ -318,6 +315,25 @@ var enterB = document.getElementById("enterB");
 enterB.addEventListener("click", helloFunction, false);
 
 
+/*Paid Versions*/
+var zombie = document.getElementById("zombie");
+zombie.addEventListener("click", paidVersion, false);
+
+var tsunami = document.getElementById("tsunami");
+tsunami.addEventListener("click", paidVersion2, false);
+
+
+function paidVersion() {
+    document.getElementById("zombie").innerHTML = "Only on paid version";
+}
+
+function paidVersion2() {
+    document.getElementById("tsunami").innerHTML = "Only on paid version";
+}
+/*End of Paid Version*/
+
+var audio1 = new Audio("resources/AUDIO/The Doors   The End (mp3cut.net) (1).mp3")
+audio1.play()
 /* ----- Function for Start Button Event -------*/
 function helloFunction() {
     console.log("Index Counter: " + indexCounter);
@@ -327,13 +343,11 @@ function helloFunction() {
 
 
     /* Placing header and question text in HTML*/
-
-
     document.getElementById("questionS").innerHTML = "";
     document.getElementById("question").innerHTML = "Question " + (indexCounter + 1) + "/10";
     document.getElementById("options").innerHTML = "";
     document.getElementById("questionS").innerHTML = myQuestions[ranNums[indexCounter]].question + "<br><br><br>";
-    document.getElementById("imgC").style.backgroundImage = "url(" + myQuestions[ranNums[indexCounter]].imageURL + ")";
+    document.getElementById("imgC").style.backgroundImag = "url(" + myQuestions[ranNums[indexCounter]].imageURL + ")";
 
 
     /* Placing radio buttons */
@@ -342,13 +356,17 @@ function helloFunction() {
     document.getElementById("options").innerHTML += '<label><input type="radio" name="option" value="' + myQuestions[ranNums[indexCounter]].answers.c + '">' + myQuestions[ranNums[indexCounter]].answers.c + '</label><br><br>';
 
 
-    /* Iterate all questions, creating an index counter for every option */
+    /* Iterate all answers, creating an index counter for every option */
     options = document.getElementsByName("option");
     for (var i = 0; i < options.length; i++) {
+        options.toUpperCase;
         options[i].addEventListener("click", checkFunction, false);
     }
 
     indexCounter++;
+
+    
+
 }
 /* -------------------------------------------------------------------- */
 
@@ -409,49 +427,63 @@ function nextFunction() {
         /* Checks for correct answers*/
         for (var j = 0; j < myQuestions.length; j++) {
             if (usersAnswers[j] == myQuestions[j].correctAnswer) {
-                survivability += 10;
+                /*    THIS WHOLE THING, DOES FUCK ALL */ 
             }
             if (usersAnswers[j] == myQuestions[j].honorableAnswer) {
-                honor += 10;
             }
 
             if (usersAnswers[j] == myQuestions[j].wrongAnswer) {
-                survivability -= 10;
             }
 
             if (usersAnswers[j] == myQuestions[j].selfishAnswer) {
-                honor -= 10;
             }
             if (usersAnswers[j] == myQuestions[j].correctAnswer2) {
-                survivability += 10;
             }
             if (usersAnswers[j] == myQuestions[j].honorableAnswer2) {
-                honor += 10;
             }
 
             if (usersAnswers[j] == myQuestions[j].wrongAnswer2) {
-                survivability -= 10;
             }
 
             if (usersAnswers[j] == myQuestions[j].selfishAnswer2) {
-                honor -= 10;
             }
         } 
+
+
+        /* --- Audio Files --- */
+        audio1.pause();
+        var audio = new Audio('resources/AUDIO/monster sound.wav');
 
 
 
         /* Change Result text according to correct answers */
         if (correctAnswers === 0) {
             document.getElementById("result").innerHTML = "You missed every question.. Why not give it another go?";
+            audio.play();
         } else if (correctAnswers == 1) {
             document.getElementById("result").innerHTML = "You had " + correctAnswers + "  correct answer. You can do better!";
-
         } else if (correctAnswers <= 5) {
-            document.getElementById("result").innerHTML = "You had " + correctAnswers + " correct answers! You are showing some potential!";
+            document.getElementByI("result").innerHTML = "You had " + correctAnswers + " correct answers! You are showing some potential!";
         } else if (correctAnswers <= 9) {
             document.getElementById("result").innerHTML = "You had " + correctAnswers + " correct answers! I'm impressed!";
         } else if (correctAnswers === 10) {
             document.getElementById("result").innerHTML = "You know all " + correctAnswers + " answers !?!  Stephen Hawking wants to see you!";
+        }
+
+        if (honor > 75) {
+            document.getElementById("result2").innerHTML = " and next to you, Hitler would seem like an Angel";
+        } else if (honor < 75) {
+            document.getElementById("result2").innerHTML = " and you are kind of honorable";
+        } else if (honor <= 55) {
+            document.getElementById("result2").innerHTML = " and Jesus would be proud";
+        } 
+
+        if (survivability > 75) {
+            document.getElementById("result").innerHTML = "A toddler has better survival skills than you";
+        } else if (survivability < 75) {
+            document.getElementById("result").innerHTML = "With a bit of luck, you may get through it";
+        } else if (survivability <= 55) {
+            document.getElementById("result").innerHTML = "Unfortunately for mankind you'll probably survive";
         }
     }
 
